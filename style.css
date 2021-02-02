@@ -2,3 +2,22 @@
     --brand-primary: #591202;
     --brand-secondary: #F2EEAC;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Navigation */
+
+.navigation-bar {
+    width: 100%;
+    background-color: var(--brand-primary);
+}
+
+.navigation-bar-container {}
+
+.navigation-bar-list {}
+
+.navigation-bar-list-item {}
